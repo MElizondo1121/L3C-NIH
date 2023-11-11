@@ -1,0 +1,15 @@
+---
+rid: "ri.vector.main.workbook.fc48f4c8-564f-49f2-8710-59c5b66f30cb"
+repositoryRid: "ri.stemma.main.repository.bb1ee7ec-90f6-4e9a-ac39-e110939a1860"
+environmentRepositoryRid: null
+backingRepositoryRids:
+- "ri.vector.runtime.artifacts.repository"
+- "ri.artifacts.repository.artifactory.internal-docker-release"
+outputFolderRid: "ri.compass.main.folder.ee8765c9-4919-4483-a57f-47e0ad0ed568"
+comparisonParentFolderRid: "ri.compass.main.folder.8bf731c7-6741-4c0a-888c-cfe91ce748e8"
+legacyVectorLanguage: null
+autoLayoutPaths: false
+useProjectScope: true
+tokenMode: "SCOPED_TOKEN"
+duplicatedFromWorkbook: null
+workbookType: "DEFAULT"

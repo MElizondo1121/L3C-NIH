@@ -1,0 +1,41 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#IDE related items
+.idea/
+
+data/synthea-sample-data.zip
+*.csv
+*.csv
+data/10k_synthea_covid19_csv/__MACOSX/10k_synthea_covid19_csv/._Synthea COVID-19 Analysis.html
+data/10k_synthea_covid19_csv/10k_synthea_covid19_csv/Synthea COVID-19 Analysis.html
